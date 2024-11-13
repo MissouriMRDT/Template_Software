@@ -22,3 +22,7 @@
 *.jpg   binary
 *.jpeg  binary
 *.pdf   binary
+
+# VSCode shenanigans
+.vscode/extensions.json text eol=lf
+.vscode/settings.json   text eol=lf
